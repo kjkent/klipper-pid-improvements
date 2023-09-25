@@ -4,3 +4,7 @@ out
 .config
 .config.old
 klippy/.version
+.history/
+.DS_Store
+ci_build/
+ci_cache/
